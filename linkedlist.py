@@ -30,8 +30,13 @@ class MyLinkedList:
         """
         if self.val==None:
             self.val=val
-        elif self!=None:
+        else:
+            j=self.val
+            n=self.next
             self.val=val
+            self.next=MyLinkedList()
+            self.next.val=j
+            self.next.next=n
             
         
     def addAtTail(self, val: int) -> None:
@@ -56,26 +61,27 @@ class MyLinkedList:
         """
         Add a node of value val before the index-th node in the linked list. If index equals to the length of linked list, the node will be appended to the end of linked list. If index is greater than the length, the node will not be inserted.
         """
-        if index<=0:
-            j=self
-            n=self.next
-            self.val=val
-            self.next=MyLinkedList()
-            self.next=n
-            
-        i=1
+        i=0
+        t=0
         j=self
-        n=j.next
+        n=j
+        index=index-1
         while i<index:
-            if j != None:
+            i+=1
+            if j.next!=None:
                 j=j.next
-                i+=1
                 n=j
             else:
-                return
-        j.next=MyLinkedList()
-        j.next.val=val
-        j.next.next=n
+                t+=1
+        if index<=-1:
+            self.addAtHead(val)
+        elif t==0 and j.next!=None:
+            n=j.next
+            j.next=MyLinkedList()
+            j.next.val=val
+            j.next.next=n
+        elif t<=1 and j.val!=None:
+            self.addAtTail(val)
             
 
     def deleteAtIndex(self, index: int) -> None:
@@ -84,11 +90,28 @@ class MyLinkedList:
         """
         i=0
         j=self
-        n=j.next
-        while i < index:
+        n=j
+        t=0
+        while i<index:
             i+=1
-            j=j.next
-            n=n.next
-        j.next=MyLinkedList()
-        j.val=n.val
-        j.next=n.next
+            if j.next!=None:
+                n=j
+                j=j.next
+            else:
+                t+=1
+        if index==0 and j.next==None:
+            j.val=None
+        elif index>=0 and t==0 and j.next!=None:
+            j.val=j.next.val
+            j.next=j.next.next
+        elif index>0 and t==0 and j.val!=None:
+            n.next=None
+        else:
+            return
+# Your MyLinkedList object will be instantiated and called as such:
+# obj = MyLinkedList()
+# param_1 = obj.get(index)
+# obj.addAtHead(val)
+# obj.addAtTail(val)
+# obj.addAtIndex(index,val)
+# obj.deleteAtIndex(index)
