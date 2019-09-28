@@ -64,7 +64,6 @@ class MyLinkedList:
         i=0
         t=0
         j=self
-        n=j
         index=index-1
         while i<index:
             i+=1
@@ -90,7 +89,6 @@ class MyLinkedList:
         """
         i=0
         j=self
-        n=j
         t=0
         while i<index:
             i+=1
