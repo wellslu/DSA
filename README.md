@@ -1,3 +1,4 @@
-# DSA
-DSA-HOMEWORK
-test
+# 關於我
+* 姓名:盧煒中(WellsLu)
+* 學校:東吳大學巨資系
+* 較擅長的程式:python
