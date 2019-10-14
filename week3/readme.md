@@ -1,1 +1,1 @@
-![111](https://imgur.com/VshOuwG)
+![](https://imgur.com/VshOuwG)
