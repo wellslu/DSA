@@ -1,2 +1,2 @@
 - QuickSort邏輯流程圖
-![](https://imgur.com/VshOuwG)
+![](https://i.imgur.com/VshOuwG.jpg)
