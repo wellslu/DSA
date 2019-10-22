@@ -2,6 +2,8 @@
 * 姓名:盧煒中(WellsLu)
 * 學校:東吳大學巨資系
 * 較擅長的程式:python
+# Homework
+- [QuickSort](https://github.com/wellslu/DSA/blob/master/week3/readme.md)-[code](https://github.com/wellslu/DSA/blob/master/week3/quicksort.ipynb)
 # [week1](https://github.com/wellslu/DSA/tree/master/week1)
 - [Design-LinkedList](https://github.com/wellslu/DSA/blob/master/week1/Design-LinkedList.py)
 - [Stack](https://github.com/wellslu/DSA/blob/master/week1/MinStack2.py)
