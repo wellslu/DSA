@@ -1,6 +1,7 @@
 # LinkedList
 - 邏輯概念 : 從頭開始為第一個節點，每一個節點內存著資料以及通往下一個節點的道路，以此類推把所有資料以道路連接起來就是linkedlist。
 - 用意 : linkedlist是以節點的形式將資料串連，好處是可以比array更節省資料的儲存空間，因為可以在各個儲存處取出少量空間來儲存任意節點的單一資料，但缺點就是再取資料時需要從第一個開始走到需要的資料存放處，速度相對較array慢。
+
 ![](https://s3.amazonaws.com/hr-challenge-images/17168/1456961238-28488bfa0d-LinkedListExplanation.png)
 
 # Stack
