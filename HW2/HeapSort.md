@@ -26,3 +26,4 @@
 - 4、我在過程中，若遇到較小的就會直接先換，所以換的次數可能會比較多，而且我是寫到另一個list中，所以這可能會稍微影響到運行速度。
 ![](https://i.imgur.com/zJxhNe0.jpg)
 # 流程圖
+![](https://i.imgur.com/ZwsUVKa.png)
