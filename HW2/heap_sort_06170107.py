@@ -1,4 +1,4 @@
-class solution():
+class Solution():
     def heap_sort(self, nums):
         a=len(nums)#先算出list長度
         y=[]#這個list是一個一個取出來時裝在這裡
