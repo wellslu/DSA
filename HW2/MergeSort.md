@@ -3,7 +3,7 @@ MergeSort又稱合併排序法，分為兩個步驟拆分與合併，首先是�
 每回合的合併需要花：O(n)
 總共需要回合數：O(log n)
 
-![](https://miro.medium.com/max/1655/1*lbHMJmGtjb_qe943kE_bmg.jpeg)
+<img src='https://miro.medium.com/max/1655/1*lbHMJmGtjb_qe943kE_bmg.jpeg' height=700 weight =1400>
 
 參考網頁:https://medium.com/appworks-school/初學者學演算法-排序法進階-合併排序法-6252651c6f7e
 
