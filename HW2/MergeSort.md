@@ -16,3 +16,5 @@ MergeSort又稱合併排序法，分為兩個步驟拆分與合併，首先是�
 <img src='https://i.imgur.com/GYuZ5eL.jpg' height=350 weight =700>
 
 # 流程圖
+
+![](https://i.imgur.com/d2TS3sb.png)
