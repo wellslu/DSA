@@ -14,3 +14,6 @@
 # [week3](https://github.com/wellslu/DSA/tree/master/week3)
 - [SortAnArray](https://github.com/wellslu/DSA/blob/master/week3/SortAnArray.py)
 - [QuickSort](https://github.com/wellslu/DSA/blob/master/week3/quicksort.ipynb)
+#[week4](https://github.com/wellslu/DSA/tree/master/week4)
+- [heap sort]()
+- [merge sort]()
