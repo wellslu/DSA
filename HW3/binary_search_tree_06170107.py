@@ -141,6 +141,8 @@ class Solution(object):
         if root.left == None and root.right == None:
             self.tree = 1
         self.count_target(root,target)
+        if self.count == 0:
+            return
         self.delete(root,target)
         self.node = self.insert(root, new_val)
         if self.tree_high(root, 1) + 1 <= self.tree:
@@ -158,5 +160,5 @@ class Solution(object):
                 root.left = x
         self.count = self.count - 1
         if self.count > 0:
-            modify(self, root, target, new_val)
+            self.modify(root, target, new_val)
         return self.node
