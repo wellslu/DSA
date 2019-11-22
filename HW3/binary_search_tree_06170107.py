@@ -137,7 +137,7 @@ class Solution(object):
         :type new_val: int
         :rtype: None Do not return anything, modify nodes(maybe more than more) in-place instead.(cannot search())
         """
-        self.tree = self.tree_high(root, 1) + 1
+        self.tree = self.tree_high(root, 1)
         if root.left == None and root.right == None:
             self.tree = 1
         self.count_target(root,target)
