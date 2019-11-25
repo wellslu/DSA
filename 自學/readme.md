@@ -45,3 +45,7 @@ Google Chrome瀏覽器中的V8 JavaScript 引擎，大幅度的提升了JavaScri
   - ECMAScript 5 (ES5) 發行於2009年底
   - ECMAScript 4 (ES4) 棄用
   - ECMAScript 3 (ES3) 發行於1999年底
+# GA API
+我的GA API學習過程都是從GA學習手冊上學習的https://developers.google.com/analytics/devguides/reporting/core/v4 https://developers.google.com/analytics/devguides/reporting/core/v3
+- 取得GA的API權限:
+
