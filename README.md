@@ -5,6 +5,7 @@
 # [額外自學](https://github.com/wellslu/DSA/tree/master/自學)
 - [javascript](https://github.com/wellslu/js_learn)
 - [GA API v4](https://github.com/wellslu/DSA/blob/master/%E8%87%AA%E5%AD%B8/GA%20API.ipynb)
+- [GA API v3](https://github.com/wellslu/DSA/blob/master/%E8%87%AA%E5%AD%B8/ga%20api%20v3.ipynb)
 # [week1](https://github.com/wellslu/DSA/tree/master/week1)
 - [Design-LinkedList](https://github.com/wellslu/DSA/blob/master/week1/Design-LinkedList.py)
 - [Stack](https://github.com/wellslu/DSA/blob/master/week1/MinStack2.py)
