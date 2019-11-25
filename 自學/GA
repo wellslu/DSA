@@ -1,0 +1,14 @@
+try:
+  service.data().realtime().get(
+      ids='ga:56789',
+      metrics='rt:activeUsers',
+      dimensions='rt:medium').execute()
+
+except TypeError, error:
+  # Handle errors in constructing a query.
+  print ('There was an error in constructing your query : %s' % error)
+
+except HttpError, error:
+  # Handle API errors.
+  print ('Arg, there was an API error : %s : %s' %
+         (error.resp.status, error._get_reason()))
