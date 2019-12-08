@@ -30,3 +30,5 @@
  <img src='https://github.com/wellslu/DSA/blob/master/CS50/week5/jpg/4.jpg' height=200 weight =200>
  
  最後是圖片的儲存方式，最簡單的方式是以0是黑1是白來存取一張黑白圖，最後我不敢相信他們的作業看起來如此的難。
+ 
+*課程https://www.youtube.com/watch?v=atBMLJdSKBo*
