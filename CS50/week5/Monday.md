@@ -5,11 +5,11 @@
 
 array:　　　　　　　　　　　　　　　　linked list:
 
-<img src='https://github.com/wellslu/DSA/blob/master/CS50/week5/1575805346067.jpg' height=200 weight =200>　　<img src='https://github.com/wellslu/DSA/blob/master/CS50/week5/1575805374024.jpg' height=200 weight =200>
+<img src='https://github.com/wellslu/DSA/blob/master/CS50/week5/jpg/1575805346067.jpg' height=200 weight =200>　　<img src='https://github.com/wellslu/DSA/blob/master/CS50/week5/jpg/1575805374024.jpg' height=200 weight =200>
 
 然後再用一個不是當用法的例子來講解，每一個變數都需要一個指向的位置，但若沒提供會導致指不到對的地方，就需要修正
 
-<img src='https://github.com/wellslu/DSA/blob/master/CS50/week5/157.jpg' height=400 weight =400>
+<img src='https://github.com/wellslu/DSA/blob/master/CS50/week5/jpg/157.jpg' height=400 weight =400>
                                                                       
 再來他提供一個維基百科上關於記憶體溢出的例子，若以傳統型方式存取的話可能就會導致當攻擊者有意侵入你的電腦時，不斷地塞滿你的記憶體，而你的記憶體不足卻需要存放傳來的東西時，超出容量的訊息會繼續往下放，造成有心人士就可以從這裡走到你電腦的main，進而奪取更高的權限。
 
