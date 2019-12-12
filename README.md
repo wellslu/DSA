@@ -23,3 +23,4 @@
 # [week4](https://github.com/wellslu/DSA/tree/master/week4)
 - [heap sort](https://github.com/wellslu/DSA/blob/master/week4/heap_sort_06170107.py)
 - [merge sort](https://github.com/wellslu/DSA/blob/master/week4/merge_sort_06170107.py)
+# [week5](https://github.com/wellslu/DSA/tree/master/week5)
