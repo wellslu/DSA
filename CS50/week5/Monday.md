@@ -4,7 +4,7 @@
  1、前10分鐘左右我先是對於那個教授感到敬佩，因為它可以邊上課邊打出他要的東西而且沒錯，但這部分我認為翻譯的有些不是很好加上我英文不好的關係有些不明白，但據我了解他先是用一個小遊戲來表示何謂他的上帝視角，只要下面的盤子不斷跟著球移動就永遠不會結束，從這邊帶入你看到的只不過是表面，而背後的東西在這堂課可以學到，並用一部電影當CGI和電腦科學的示範。
 2、後面的部分，教授從sting和char開始講起，然後進入到linked list存放方式的講解，由於教授是用C來教課，我個人這次就沒有實做一遍了，主要我比較印象深刻的是他講解完swap後，他畫了用一般方式做和用linked list做時記憶體是如何運行的，你只需要記住的是位置，而不是一個實體，並且善用指向，就能輕鬆地省下記憶體空間，並且如果是有出現重複的情況，何不指向同一位置就好了呢?
 
-array:　　　　　　　　　　　　　　　　linked list:
+array:　　　　　　　　　　　　　　　　point:
 
 <img src='https://github.com/wellslu/DSA/blob/master/CS50/week5/jpg/1575805346067.jpg' height=200 weight =200>　　<img src='https://github.com/wellslu/DSA/blob/master/CS50/week5/jpg/1575805374024.jpg' height=200 weight =200>
 
