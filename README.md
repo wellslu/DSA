@@ -27,3 +27,5 @@
 - [binary_search_tree](https://github.com/wellslu/DSA/blob/master/week5/binary_search_tree2.ipynb)
 # [week6](https://github.com/wellslu/DSA/tree/master/week6)
 - [hash_table](https://github.com/wellslu/DSA/blob/master/week6/hash_table_06170107.py)
+# [week7](https://github.com/wellslu/DSA/blob/master/week7)
+- [BFS&DFS](https://github.com/wellslu/DSA/blob/master/week7/BFS_DFS.ipynb)
