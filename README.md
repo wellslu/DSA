@@ -2,6 +2,7 @@
 * 姓名:盧煒中(WellsLu)
 * 學校:東吳大學巨資系
 * 較擅長的程式:python
+leetcode和作業部份會放在各周，額外學習的東西會放在額外自學
 # [額外自學](https://github.com/wellslu/DSA/blob/master/%E8%87%AA%E5%AD%B8)
 - [javascript](https://github.com/wellslu/js_learn)
 - [GA API v4](https://github.com/wellslu/DSA/blob/master/%E8%87%AA%E5%AD%B8/GA%20API%20v4.ipynb)
