@@ -31,3 +31,5 @@ leetcode和作業部份會放在各周，額外學習的東西會放在額外自
 - [hash_table](https://github.com/wellslu/DSA/blob/master/week6/hash_table_06170107.py)
 # [week7](https://github.com/wellslu/DSA/blob/master/week7)
 - [BFS&DFS](https://github.com/wellslu/DSA/blob/master/week7/BFS%26DFS.ipynb)
+# [week8](https://github.com/wellslu/DSA/blob/master/week8)
+- [Dijkstra&Kruskal](https://github.com/wellslu/DSA/blob/master/week8/Dijkstra&Kruskal.ipynb)
