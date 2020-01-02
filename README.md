@@ -10,6 +10,7 @@ leetcode和作業部份會放在各周，額外學習的東西會放在額外自
 - [GA API v3](https://github.com/wellslu/DSA/blob/master/%E8%87%AA%E5%AD%B8/ga%20api%20v3.ipynb)
 - [GA API real time report v3](https://github.com/wellslu/DSA/blob/master/%E8%87%AA%E5%AD%B8/GA%20API%20real%20time%20report%20v3.ipynb)
 - [GA API Setting(適用於各種設定 只要把profile的地方改成自己要抓取的設定)](https://github.com/wellslu/DSA/blob/master/%E8%87%AA%E5%AD%B8/GA%20API%20Setting.ipynb)
+- [Flask&MySQL](https://github.com/wellslu/DSA/blob/master/%E8%87%AA%E5%AD%B8/Flask%20and%20MySQL.ipynb)
 # [CS50](https://github.com/wellslu/DSA/tree/master/CS50)
 - [week5](https://github.com/wellslu/DSA/tree/master/CS50/week5)
 # [week1](https://github.com/wellslu/DSA/tree/master/week1)
