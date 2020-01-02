@@ -1,5 +1,6 @@
 # 自學部分
 - 這邊是我這學期額外自學的部分，不一定是跟課堂相關或是python的程式，但也是我額外努力的過程
+  - [javascript學習歷程](https://github.com/wellslu/DSA/blob/master/%E8%87%AA%E5%AD%B8/javascript.md)
 # GA API
 我的GA API學習過程都是從GA學習手冊上學習的https://developers.google.com/analytics/devguides/reporting/core/v4 https://developers.google.com/analytics/devguides/reporting/core/v3
 
