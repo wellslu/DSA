@@ -1,15 +1,15 @@
-# 關於我
-* 姓名:盧煒中(WellsLu)
-* 學校:東吳大學巨資系
-* 較擅長的程式:python
+# introduce
+* name:盧煒中(WellsLu)
+* major:Soochow University Big Data
+* better programming language:python
 
-leetcode和作業部份會放在各周，額外學習的東西會放在額外自學，要看學習歷程的部份請點擊標題
-# [額外自學](https://github.com/wellslu/DSA/blob/master/%E8%87%AA%E5%AD%B8)
+leetcode and homework will put in every week，other things will put in learn myself
+# [learn myself](https://github.com/wellslu/DSA/blob/master/%E8%87%AA%E5%AD%B8)
 - [javascript](https://github.com/wellslu/js_learn)
 - [GA API v4](https://github.com/wellslu/DSA/blob/master/%E8%87%AA%E5%AD%B8/GA%20API%20v4.ipynb)
 - [GA API v3](https://github.com/wellslu/DSA/blob/master/%E8%87%AA%E5%AD%B8/ga%20api%20v3.ipynb)
 - [GA API real time report v3](https://github.com/wellslu/DSA/blob/master/%E8%87%AA%E5%AD%B8/GA%20API%20real%20time%20report%20v3.ipynb)
-- [GA API Setting(適用於各種設定 只要把profile的地方改成自己要抓取的設定)](https://github.com/wellslu/DSA/blob/master/%E8%87%AA%E5%AD%B8/GA%20API%20Setting.ipynb)
+- [GA API Setting(for every GA setting,change profile into which you want to catch)](https://github.com/wellslu/DSA/blob/master/%E8%87%AA%E5%AD%B8/GA%20API%20Setting.ipynb)
 - [Flask&MySQL](https://github.com/wellslu/DSA/blob/master/%E8%87%AA%E5%AD%B8/Flask%20and%20MySQL.ipynb)
 # [CS50](https://github.com/wellslu/DSA/tree/master/CS50)
 - [week5](https://github.com/wellslu/DSA/tree/master/CS50/week5)
